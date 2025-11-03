@@ -1,5 +1,11 @@
 # GoDNS
 
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/extremtechniker/godns)](https://goreportcard.com/report/github.com/extremtechniker/godns)
+[![Build Docker](https://github.com/extremtechniker/godns/actions/workflows/docker-build.yml/badge.svg)](https://github.com/extremtechniker/godns/actions/workflows/docker-build.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+
 **GoDNS** is a lightweight, high-performance DNS server written in Go with Postgres persistence, Redis caching, CLI
 management, and an optional HTTP API for CRUD operations. It supports structured logging, metrics, and JWT-secured API
 access.
